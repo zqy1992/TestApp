@@ -1,3 +1,5 @@
 include ':app'
 include ':common'
 project(':common').projectDir=new File("TestHome/common")
+include ':baselib'
+project(":baselib").projectDir = new File("TestBase/baselib")
