@@ -1,3 +1,6 @@
 [submodule "TestHome"]
 	path = TestHome
 	url = https://github.com/zqy1992/TestHome.git
+[submodule "TestNews"]
+	path = TestNews
+	url = https://github.com/zqy1992/TestNews.git
